@@ -1,0 +1,1 @@
+ finally taking the next billion users to account. Mobile first design on my mind I implement thse concepts on a webpage.
